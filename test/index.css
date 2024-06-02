@@ -1,0 +1,16 @@
+body{
+    color: purple;
+    background-color: yellow;
+}
+
+@keyframes move{
+    0%{
+        background-color: black;
+    }
+    50%{
+        background-color: gray;
+    }
+    100%{
+        background-color: white;
+    }
+}
